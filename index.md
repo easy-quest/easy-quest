@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+## Добро пожаловать на страницы GitHub
 
-You can use the [editor on GitHub](https://github.com/easy-quest/easy-quest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Вы можете использовать [редактор на GitHub](https://github.com/easy-quest/easy-quest/edit/gh-pages/index.md) для поддержки и предварительного просмотра содержимого вашего веб-сайта в файлах Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Каждый раз, когда вы вносите изменения в этот репозиторий, GitHub Pages запускает [Jekyll](https://jekyllrb.com/) для восстановления страниц вашего сайта из содержимого ваших файлов Markdown.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown - это легкий и простой в использовании синтаксис для стилизации вашего текста. Он включает соглашения для
 
 ```markdown
-Syntax highlighted code block
+Выделенный синтаксисом блок кода
 
 # Header 1
 ## Header 2
@@ -30,8 +30,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/easy-quest/easy-quest/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Ваш сайт Pages будет использовать макет и стили из темы Jekyll, которую вы выбрали в [настройках репозитория](https://github.com/easy-quest/easy-quest/settings/pages). Название этой темы
 
-### Support or Contact
+### Поддержка или контакт
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Возникли проблемы со страницами? Ознакомьтесь с нашей [документацией](https://docs.github.com/categories/github-pages-basics/) или [обратитесь в службу поддержки](https://support.github.com/contact), и мы поможем вам отсортируй это
