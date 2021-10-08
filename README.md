@@ -17,3 +17,7 @@
 
 - ⚡ Интересный факт: ...
 [https://easy-quest.github.io/web/](https://easy-quest.github.io/web/)
+
+-  💬 Как до меня добраться: ...
+
+[my-web](https://easy-quest.github.io/my-website/)
