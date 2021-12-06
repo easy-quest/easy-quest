@@ -23,3 +23,12 @@
 -  💬 Как до меня добраться: ...
 
 [my-web](https://easy-quest.github.io/my-website/)
+
+https://keybase.pub/easypass/
+
+https://easypass.keybase.pub 
+
+[https://easypass.keybase.pub/index.md] - [этот файл служил в качестве необработанной уценки]_
+[https://keybase.pub/easypass/index.md] - [этот файл внутри glossy, доступного для навигации сайта]
+[https://easypass.keybase.pub] - [этот файл отображается в формате HTML]
+
